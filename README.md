@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, my name is Hrithik and my useername is Nyzurbern!
 
-<!--
-**Nyzurbern/Nyzurbern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Roblox Developer | 💻 Aspiring Software Engineer | 🧠 Game Mechanics Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 Upcoming Projects
+- **Boundless:Civitas** – A simulation city-builder with AI-driven systems and multiplayer design.
+- **Untitled Flag Game** – A tactical multiplayer game (Main scripter).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Lua (Roblox)
+- Git + Rojo
+- Swift (iOS)
+- Python
+- Game Systems Architecture
+- UI & Game Loop Design
+
+## 🧩 Tools & Workflow
+- Roblox Studio + Rojo
+- GitHub Projects & Issues
+- Visual Studio Code
+- Swift Playgrounds & Xcode
+---
+
+Feel free to connect or check out what I’m building!
