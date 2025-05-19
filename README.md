@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Hrithik and my useername is Nyzurbern!
+# 👋 Hi, my name is Hrithik and my username is Nyzurbern!
 
 🎮 Roblox Developer | 💻 Aspiring Software Engineer | 🧠 Game Mechanics Enthusiast
 
